@@ -1,0 +1,28 @@
+body {
+    text-align:center;
+background-color:darkgrey;
+    font-size:20px;
+    text-align:center;
+}
+.section-style {
+border-image-width: auto;
+align-content: center;
+background-color: white;
+margin-right:25px;
+margin-left:25px;
+}
+
+p {
+    font-size:30px;
+}
+
+.image-section {
+    display:flex;
+    justify-content: center;
+}
+div {
+    margin-top:15px;
+}
+img {
+    width:250px;
+}
